@@ -1,0 +1,41 @@
+{
+  "mappings": {
+    "articles": {
+      "properties": {
+        "content": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword"
+            },
+            "slovencina": {
+              "type": "text",
+              "analyzer": "slovencina",
+              "search_analyzer": "slovencina_stop"
+            }
+          }
+        },
+        "articleName": { "type": "text" },
+        "articleUrl": { "type": "text" },
+        "categories": {
+          "properties": {
+            "categoryName": { "type": "text" },
+            "categoryUrl": { "type": "text" }
+          }
+        },
+        "languages": {
+          "properties": {
+            "languageName": { "type": "text" },
+            "languageUrl": { "type": "text" }
+          }
+        },
+        "redirects": {
+          "properties": {
+            "redirectName": { "type": "text" },
+            "redirectUrl": { "type": "text" }
+          }
+        }
+      }
+    }
+  }
+}

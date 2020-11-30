@@ -1,0 +1,92 @@
+{
+  "template": "vinf_data_analyzer",
+  "version": 4,
+  "settings": {
+    "analysis": {
+      "filter": {
+        "lemmagen_filter_sk": {
+          "type": "lemmagen",
+          "lexicon": "sk"
+        },
+        "sk_SK": {
+          "type": "hunspell",
+          "locale": "sk_SK",
+          "dedup": true,
+          "recursion_level": 0
+        },
+        "stopwords_SK": {
+          "type": "stop",
+          "stopwords_path": "stop-words/stop-words-slovak.txt",
+          "ignore_case": true
+        }
+      },
+      "analyzer": {
+        "slovencina": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": ["lemmagen_filter_sk", "lowercase", "sk_SK", "asciifolding"]
+        },
+        "slovencina_stop": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "stopwords_SK",
+            "lemmagen_filter_sk",
+            "lowercase",
+            "sk_SK",
+            "asciifolding"
+          ]
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "articleName": {
+        "type": "text",
+        "analyzer": "slovencina",
+        "search_analyzer": "slovencina_stop"
+      },
+      "articleUrl": {
+        "type": "text"
+      },
+      "categories": {
+        "properties": {
+          "categoryName": {
+            "type": "text",
+            "analyzer": "slovencina",
+            "search_analyzer": "slovencina_stop"
+          },
+          "categoryUrl": {
+            "type": "text"
+          }
+        }
+      },
+      "languages": {
+        "properties": {
+          "languageAbr": {
+            "type": "text"
+          },
+          "languageTerm": {
+            "type": "text"
+          },
+          "languageUrl": {
+            "type": "text"
+          }
+        }
+      },
+      "redirects": {
+        "properties": {
+          "redirectName": {
+            "type": "text",
+            "analyzer": "slovencina",
+            "search_analyzer": "slovencina_stop"
+          },
+          "redirectUrl": {
+            "type": "text"
+          }
+        }
+      }
+    }
+  }
+}

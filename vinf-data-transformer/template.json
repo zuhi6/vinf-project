@@ -1,0 +1,47 @@
+{
+  "template": "vinf_data",
+  "version": 1,
+  "mappings": {
+    "properties": {
+      "articleName": {
+        "type": "text"
+      },
+      "articleUrl": {
+        "type": "text"
+      },
+      "categories": {
+        "properties": {
+          "categoryName": {
+            "type": "text"
+          },
+          "categoryUrl": {
+            "type": "text"
+          }
+        }
+      },
+      "languages": {
+        "properties": {
+          "languageAbr": {
+            "type": "text"
+          },
+          "languageTerm": {
+            "type": "text"
+          },
+          "languageUrl": {
+            "type": "text"
+          }
+        }
+      },
+      "redirects": {
+        "properties": {
+          "redirectName": {
+            "type": "text"
+          },
+          "redirectUrl": {
+            "type": "text"
+          }
+        }
+      }
+    }
+  }
+}

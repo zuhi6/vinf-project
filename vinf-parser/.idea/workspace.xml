@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d99f16d9-f05e-4601-906e-c81bc8635256" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/parser/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parser/Parser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/parser/Parser.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iWrxHjYvlTz6bV7FcWpFdgjjBL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michal Zajic\workspaces\vinf-maven\src\main\java\parser" />
+      <recent name="C:\Users\Michal Zajic\workspaces\vinf-maven" />
+      <recent name="C:\Users\Michal Zajic\workspaces\vinf-maven\src\main\java" />
+      <recent name="C:\Users\Michal Zajic\workspaces\vinf-maven\src\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="parser.Parser" />
+      <module name="vinf-maven" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="parser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Parser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d99f16d9-f05e-4601-906e-c81bc8635256" name="Default Changelist" comment="" />
+      <created>1602034436651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602034436651</updated>
+      <workItem from="1602034437848" duration="1651000" />
+      <workItem from="1602433031943" duration="393000" />
+      <workItem from="1602837285300" duration="6000" />
+      <workItem from="1603180979696" duration="26914000" />
+      <workItem from="1605030142940" duration="140000" />
+      <workItem from="1605030648681" duration="1499000" />
+      <workItem from="1605043014068" duration="335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1602034640710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1602034640710" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602034759395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602034759395" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1602837288159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602837288159" />
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom" timestamp="1603262603236">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603262603236" />
+    <state width="1493" height="315" key="GridCell.Tab.0.center" timestamp="1603262603235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603262603235" />
+    <state width="1493" height="315" key="GridCell.Tab.0.left" timestamp="1603262603235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603262603235" />
+    <state width="1493" height="315" key="GridCell.Tab.0.right" timestamp="1603262603235">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="315" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603262603235" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1603207093452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603207093452" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1603207093452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603207093452" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1603207093452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603207093452" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1603207093452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603207093452" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1602035936046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602035936046" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1603192827871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1603192827871" />
+    <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1602035030314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1602035030314" />
+    <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1602034742685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="11" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602034742685" />
+    <state x="551" y="181" key="new project wizard" timestamp="1605030280636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="181" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605030280636" />
+  </component>
+</project>
